@@ -1,1 +1,1 @@
-export function require(esmModule: string): Promise<any[]>;
+export function requiresm(esmModule: string): Promise<any[]>;

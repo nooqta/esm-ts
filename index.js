@@ -1,5 +1,5 @@
 
-async function require(esmModule) {
+async function requiresm(esmModule) {
   try {
     return (await import(esmModule));
   } catch (error) {
@@ -11,6 +11,6 @@ async function require(esmModule) {
   'use strict';
 
   module.exports = {
-    require
+    requiresm
   };
 }());
