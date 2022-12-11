@@ -14,9 +14,9 @@ npm install esm-ts
 ## Usage
 Install the ESM module you want to use. Then import it using the following method
 ```ts
-import { require } from 'ts-esm'
+import { requiresm } from 'ts-esm'
 // specify the module you want to import
-const ora = await require('ora');
+const ora = await requiresm('ora');
 ora.start();
 ```
 
