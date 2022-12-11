@@ -1,0 +1,16 @@
+{
+  "name": "esm-ts",
+  "version": "0.0.1",
+  "description": "Use ESM modules in TypeScript without any configuration",
+  "exports": "./index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anis Marrouchi",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
