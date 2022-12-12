@@ -1,10 +1,13 @@
 # esm-ts
-![Version](https://img.shields.io/badge/version-0.0.8-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-0.0.9-blue.svg?cacheSeconds=2592000)
 
 
 > Import ESM modules into your typescript without messing your configuration.
 
-
+If you are importing an ESM module within a typescript project and receiving the following error then this package might save you some headaches. Don't forget to star ;)
+```
+Error [ERR_REQUIRE_ESM]: require() of ES Module
+```
 ## Install
 
 ```sh
