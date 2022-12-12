@@ -24,7 +24,7 @@ ora.start();
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/nooqta/linkedin-quizzes/issues). 
+Feel free to check [issues page](https://github.com/nooqta/esm-ts/issues). 
 
 ## Show your support
 
