@@ -1,6 +1,6 @@
 {
   "name": "esm-ts",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Use ESM modules in TypeScript without any configuration",
   "exports": "./index.js",
   "types": "types/index.d.ts",
