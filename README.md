@@ -1,5 +1,5 @@
 # esm-ts
-![Version](https://img.shields.io/badge/version-0.0.7-green.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-0.0.8-blue.svg?cacheSeconds=2592000)
 
 
 > Import ESM modules into your typescript without messing your configuration.
@@ -12,7 +12,7 @@ npm install esm-ts
 ```
 
 ## Usage
-Install the ESM module you want to use. Then import it using the following method
+Install the ESM module you want to use. Then import it using the following function
 ```ts
 import { requiresm } from 'ts-esm'
 // specify the module you want to import
