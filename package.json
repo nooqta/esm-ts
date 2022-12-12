@@ -1,7 +1,7 @@
 {
   "name": "esm-ts",
-  "version": "0.0.6",
-  "description": "Use ESM modules in TypeScript without any configuration",
+  "version": "0.0.7",
+  "description": "Use ESM modules in TypeScript without additional configurations",
   "exports": "./index.js",
   "types": "types/index.d.ts",
   "homepage": "https://github.com/nooqta/esm-ts",
